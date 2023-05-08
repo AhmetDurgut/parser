@@ -1,0 +1,10 @@
+if(a==b){
+	b<c
+	}
+	else
+	{
+	b=c
+	}else if(d>=e){
+		b+=c
+		}
+	

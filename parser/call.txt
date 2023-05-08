@@ -1,0 +1,7 @@
+if (a>b) {
+	a=a-100
+}else if (a<b) {
+	b=b-100
+} else {
+	b=a
+}
